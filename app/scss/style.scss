@@ -552,6 +552,9 @@ body {
 
         .header-item {
             display: block;
+            background-position: 100% 100%;
+            background-size    : 30%;
+            
 
             .header-item-text {
                 padding-top: 0;
@@ -579,6 +582,8 @@ body {
         padding-bottom: 0;
 
         .symptoms-wrapper {
+            background-position: 100% 10%;
+            background-size    : 40%;
             .symptoms-items {
                 .symptoms-items-text {
                     h2 {

@@ -917,6 +917,8 @@ body {
   }
   .container-header .header-item {
     display: block;
+    background-position: 100% 100%;
+    background-size: 30%;
   }
   .container-header .header-item .header-item-text {
     padding-top: 0;
@@ -936,6 +938,10 @@ body {
     width: 100%;
     padding-top: 0;
     padding-bottom: 0;
+  }
+  .container-symptoms .symptoms-wrapper {
+    background-position: 100% 10%;
+    background-size: 40%;
   }
   .container-symptoms .symptoms-wrapper .symptoms-items .symptoms-items-text h2 {
     font-size: 20px;
